@@ -7,5 +7,9 @@
   },
   "author": "Ana Kanashiro",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.7"
+  }
 }
